@@ -21,6 +21,10 @@ And now go to Log into the Jenkins dashboard and install the sonarqube scanner a
 
 Install availabe plugins like Artfactrs and deploy to container,sonarqube.
 
+**step:3**
+Install the sonarqube on sonarqube server.
+
+
 
 
 
