@@ -3,8 +3,11 @@
 **step : 1**
 first create  4 ec2 instance
 
-jenkins,
-sonarqube,
-nexus,
+jenkins
+
+sonarqube
+
+nexus
+
 tomact
 
