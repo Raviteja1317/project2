@@ -14,6 +14,8 @@ tomact
 **step:2**
 
 Connect to the Jenkins server and install the java and Jenkins.
+![Screenshot 2024-11-17 232211](https://github.com/user-attachments/assets/18a51b5f-501c-4869-9001-ce329b94c184)
+
 
 And now go to Log into the Jenkins dashboard and install the sonarqube scanner and docker to container plugin.
 
