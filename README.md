@@ -24,6 +24,8 @@ Install availabe plugins like Artfactrs and deploy to container,sonarqube.
 **step:3**
 
 Install the sonarqube on sonarqube server.
+![Screenshot 2024-11-17 235456](https://github.com/user-attachments/assets/8cd35fa5-31b3-471d-a51d-9b3e7cca60f5)
+
 
 
 
