@@ -34,6 +34,8 @@ Jenkins pipeline success
 
 **step:5**
 Code analysis by sonarqube
+![Screenshot 2024-11-17 235548](https://github.com/user-attachments/assets/748e7687-271e-4186-ab55-d4e0f158fe26)
+
 
 
 
