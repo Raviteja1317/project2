@@ -26,10 +26,17 @@ Install availabe plugins like Artfactrs and deploy to container,sonarqube.
 Install the sonarqube on sonarqube server.
 ![Screenshot 2024-11-17 235456](https://github.com/user-attachments/assets/8cd35fa5-31b3-471d-a51d-9b3e7cca60f5)
 
+**step:4**
 Install the tomcat on tomcat server.
 
 Jenkins pipeline success
 ![Screenshot 2024-11-17 215953](https://github.com/user-attachments/assets/b2d65d89-4e8b-4812-9bef-d75daf4bf94e)
+
+**step:5**
+Code analysis by sonarqube
+
+
+
 
 
 
